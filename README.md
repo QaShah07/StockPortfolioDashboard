@@ -137,5 +137,40 @@ Step 2: Run the Development Server
     - Start the React development server. 
     - Serve the frontend application at http://localhost:5173 (default for Vite)
 
+## Prerequisites
+Before running the project, ensure you have the following installed:
+- [Docker](https://www.docker.com/get-started)
+- [Git](https://git-scm.com/)
+
+## Use Docker to Set Up the Project
+
+### **Setup Instructions**
+1. **Clone the repository**  
+   ```sh
+   git clone <your-github-repo-url>
+   cd <your-project-folder>
+   ```
+
+2. **Build Docker images**  
+   ```sh
+   docker compose build
+   ```
+
+3. **Start the containers**  
+   ```sh
+   docker compose up 
+   ```
+
+4. **Verify running containers**  
+   ```sh
+   docker ps
+   ```
+
+5. **Access the application**  
+   - **Frontend:** Open `http://localhost:5173`
+   - **Backend:** Check `http://localhost:8080`
+   - **Database:** Running at `localhost:3307`
+
+
 ## Now, your project is up and running on your local machine. Enjoy managing your stock portfolio! 🚀
 
