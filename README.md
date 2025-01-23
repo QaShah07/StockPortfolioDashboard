@@ -38,7 +38,7 @@
 
 ## Future Improvements
 1. **Paid API Integration:**
-   - Upgrading to a paid tier of the Tiingo API or an alternative stock market API will allow for higher rate limits and more frequent updates, enhancing the real-time tracking experience.
+   - Upgrading to a paid tier of the  API or an alternative stock market API will allow for higher rate limits and more frequent updates, enhancing the real-time tracking experience.
 
 2. **AI-Powered Features:**
    - Incorporate AI to answer stock-related questions using **sentiment analysis** to evaluate market trends.  
