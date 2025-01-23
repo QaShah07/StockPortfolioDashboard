@@ -2,10 +2,8 @@
 # Restful API for Online Stock Trading Application using SpringBoot and Reactjs for frontEnd 
 
 - This project is a stock portfolio management application built using React with TypeScript for the frontend and Spring Boot for the backend. It allows users to manage their stock portfolio and view the top stocks.
-
-### Fronted Deployed link: 
-
-###  Backend Deployed Link:
+### Deploy Link
+###### There seems to be an issue with the deployment of the project. If needed, I can demonstrate the deployed project for you to review and check during the interview process. Please let me know if this would be helpful.
 
 ### Demo - Video (YouTube)
 [Watch the video on YouTube](https://youtu.be/fXSm0wjJLdg)
